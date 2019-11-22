@@ -1,0 +1,7 @@
+E:\ProgrammerTest\Patterns-OOP\TemplateMethod-ШаблонныйМетод\bin\Debug\TemplateMethod-ШаблонныйМетод.exe.config
+E:\ProgrammerTest\Patterns-OOP\TemplateMethod-ШаблонныйМетод\bin\Debug\TemplateMethod-ШаблонныйМетод.exe
+E:\ProgrammerTest\Patterns-OOP\TemplateMethod-ШаблонныйМетод\bin\Debug\TemplateMethod-ШаблонныйМетод.pdb
+E:\ProgrammerTest\Patterns-OOP\TemplateMethod-ШаблонныйМетод\obj\Debug\TemplateMethod-ШаблонныйМетод.csprojAssemblyReference.cache
+E:\ProgrammerTest\Patterns-OOP\TemplateMethod-ШаблонныйМетод\obj\Debug\TemplateMethod-ШаблонныйМетод.csproj.CoreCompileInputs.cache
+E:\ProgrammerTest\Patterns-OOP\TemplateMethod-ШаблонныйМетод\obj\Debug\TemplateMethod-ШаблонныйМетод.exe
+E:\ProgrammerTest\Patterns-OOP\TemplateMethod-ШаблонныйМетод\obj\Debug\TemplateMethod-ШаблонныйМетод.pdb

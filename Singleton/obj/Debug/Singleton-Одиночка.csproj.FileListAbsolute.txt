@@ -1,0 +1,7 @@
+E:\ProgrammerTest\Patterns-OOP\Singleton\bin\Debug\Singleton.exe.config
+E:\ProgrammerTest\Patterns-OOP\Singleton\bin\Debug\Singleton.exe
+E:\ProgrammerTest\Patterns-OOP\Singleton\bin\Debug\Singleton.pdb
+E:\ProgrammerTest\Patterns-OOP\Singleton\obj\Debug\Singleton-Одиночка.csproj.CoreCompileInputs.cache
+E:\ProgrammerTest\Patterns-OOP\Singleton\obj\Debug\Singleton.exe
+E:\ProgrammerTest\Patterns-OOP\Singleton\obj\Debug\Singleton.pdb
+E:\ProgrammerTest\Patterns-OOP\Singleton\obj\Debug\Singleton-Одиночка.csprojAssemblyReference.cache

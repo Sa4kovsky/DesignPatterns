@@ -1,0 +1,7 @@
+e:\ProgrammerTest\Patterns-OOP\FactoryMethod-ФабричныйМетод\obj\Debug\FactoryMethod-ФабричныйМетод.csprojAssemblyReference.cache
+e:\ProgrammerTest\Patterns-OOP\FactoryMethod-ФабричныйМетод\obj\Debug\FactoryMethod-ФабричныйМетод.csproj.CoreCompileInputs.cache
+e:\ProgrammerTest\Patterns-OOP\FactoryMethod-ФабричныйМетод\bin\Debug\FactoryMethod-ФабричныйМетод.exe.config
+e:\ProgrammerTest\Patterns-OOP\FactoryMethod-ФабричныйМетод\bin\Debug\FactoryMethod-ФабричныйМетод.exe
+e:\ProgrammerTest\Patterns-OOP\FactoryMethod-ФабричныйМетод\bin\Debug\FactoryMethod-ФабричныйМетод.pdb
+e:\ProgrammerTest\Patterns-OOP\FactoryMethod-ФабричныйМетод\obj\Debug\FactoryMethod-ФабричныйМетод.exe
+e:\ProgrammerTest\Patterns-OOP\FactoryMethod-ФабричныйМетод\obj\Debug\FactoryMethod-ФабричныйМетод.pdb

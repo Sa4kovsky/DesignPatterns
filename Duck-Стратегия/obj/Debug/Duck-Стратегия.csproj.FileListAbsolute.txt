@@ -1,0 +1,7 @@
+e:\Studies\С#\miniProgects\Patterns\SolutionPatterns\Duck-Стратегия\bin\Debug\Duck-Стратегия.exe.config
+e:\Studies\С#\miniProgects\Patterns\SolutionPatterns\Duck-Стратегия\bin\Debug\Duck-Стратегия.exe
+e:\Studies\С#\miniProgects\Patterns\SolutionPatterns\Duck-Стратегия\bin\Debug\Duck-Стратегия.pdb
+e:\Studies\С#\miniProgects\Patterns\SolutionPatterns\Duck-Стратегия\obj\Debug\Duck-Стратегия.csprojResolveAssemblyReference.cache
+e:\Studies\С#\miniProgects\Patterns\SolutionPatterns\Duck-Стратегия\obj\Debug\Duck-Стратегия.csproj.CoreCompileInputs.cache
+e:\Studies\С#\miniProgects\Patterns\SolutionPatterns\Duck-Стратегия\obj\Debug\Duck-Стратегия.exe
+e:\Studies\С#\miniProgects\Patterns\SolutionPatterns\Duck-Стратегия\obj\Debug\Duck-Стратегия.pdb

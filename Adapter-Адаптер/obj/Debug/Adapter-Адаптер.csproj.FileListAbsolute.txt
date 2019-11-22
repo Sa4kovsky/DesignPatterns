@@ -1,0 +1,7 @@
+E:\ProgrammerTest\Patterns-OOP\Adapter-Адаптер\bin\Debug\Adapter-Адаптер.exe.config
+E:\ProgrammerTest\Patterns-OOP\Adapter-Адаптер\bin\Debug\Adapter-Адаптер.exe
+E:\ProgrammerTest\Patterns-OOP\Adapter-Адаптер\bin\Debug\Adapter-Адаптер.pdb
+E:\ProgrammerTest\Patterns-OOP\Adapter-Адаптер\obj\Debug\Adapter-Адаптер.csprojAssemblyReference.cache
+E:\ProgrammerTest\Patterns-OOP\Adapter-Адаптер\obj\Debug\Adapter-Адаптер.csproj.CoreCompileInputs.cache
+E:\ProgrammerTest\Patterns-OOP\Adapter-Адаптер\obj\Debug\Adapter-Адаптер.exe
+E:\ProgrammerTest\Patterns-OOP\Adapter-Адаптер\obj\Debug\Adapter-Адаптер.pdb

@@ -1,0 +1,7 @@
+E:\Studies\С#\miniProgects\Patterns\SolutionPatterns\WeatherStation\bin\Debug\WeatherStation.exe.config
+E:\Studies\С#\miniProgects\Patterns\SolutionPatterns\WeatherStation\bin\Debug\WeatherStation.exe
+E:\Studies\С#\miniProgects\Patterns\SolutionPatterns\WeatherStation\bin\Debug\WeatherStation.pdb
+E:\Studies\С#\miniProgects\Patterns\SolutionPatterns\WeatherStation\obj\Debug\WeatherStation-Наблюдатель.csprojResolveAssemblyReference.cache
+E:\Studies\С#\miniProgects\Patterns\SolutionPatterns\WeatherStation\obj\Debug\WeatherStation-Наблюдатель.csproj.CoreCompileInputs.cache
+E:\Studies\С#\miniProgects\Patterns\SolutionPatterns\WeatherStation\obj\Debug\WeatherStation.exe
+E:\Studies\С#\miniProgects\Patterns\SolutionPatterns\WeatherStation\obj\Debug\WeatherStation.pdb

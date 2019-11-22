@@ -1,0 +1,7 @@
+E:\ProgrammerTest\Patterns-OOP\AbstractFactory-Абстракная фабрика\obj\Debug\AbstractFactory-АбстракнаяФабрика.csprojAssemblyReference.cache
+E:\ProgrammerTest\Patterns-OOP\AbstractFactory-Абстракная фабрика\obj\Debug\AbstractFactory-АбстракнаяФабрика.csproj.CoreCompileInputs.cache
+E:\ProgrammerTest\Patterns-OOP\AbstractFactory-Абстракная фабрика\bin\Debug\AbstractFactory-Абстракная фабрика.exe.config
+E:\ProgrammerTest\Patterns-OOP\AbstractFactory-Абстракная фабрика\bin\Debug\AbstractFactory-Абстракная фабрика.exe
+E:\ProgrammerTest\Patterns-OOP\AbstractFactory-Абстракная фабрика\bin\Debug\AbstractFactory-Абстракная фабрика.pdb
+E:\ProgrammerTest\Patterns-OOP\AbstractFactory-Абстракная фабрика\obj\Debug\AbstractFactory-Абстракная фабрика.exe
+E:\ProgrammerTest\Patterns-OOP\AbstractFactory-Абстракная фабрика\obj\Debug\AbstractFactory-Абстракная фабрика.pdb

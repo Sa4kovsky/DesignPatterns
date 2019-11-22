@@ -1,0 +1,14 @@
+e:\ProgrammerTest\Patterns-OOP-master\SimpleFactory-ПростаяФабрика\bin\Debug\SimpleFactory-ПростаяФабрика.exe.config
+e:\ProgrammerTest\Patterns-OOP-master\SimpleFactory-ПростаяФабрика\bin\Debug\SimpleFactory-ПростаяФабрика.exe
+e:\ProgrammerTest\Patterns-OOP-master\SimpleFactory-ПростаяФабрика\bin\Debug\SimpleFactory-ПростаяФабрика.pdb
+e:\ProgrammerTest\Patterns-OOP-master\SimpleFactory-ПростаяФабрика\obj\Debug\SimpleFactory-ПростаяФабрика.csprojAssemblyReference.cache
+e:\ProgrammerTest\Patterns-OOP-master\SimpleFactory-ПростаяФабрика\obj\Debug\SimpleFactory-ПростаяФабрика.csproj.CoreCompileInputs.cache
+e:\ProgrammerTest\Patterns-OOP-master\SimpleFactory-ПростаяФабрика\obj\Debug\SimpleFactory-ПростаяФабрика.exe
+e:\ProgrammerTest\Patterns-OOP-master\SimpleFactory-ПростаяФабрика\obj\Debug\SimpleFactory-ПростаяФабрика.pdb
+e:\ProgrammerTest\Patterns-OOP\SimpleFactory-ПростаяФабрика\bin\Debug\SimpleFactory-ПростаяФабрика.exe.config
+e:\ProgrammerTest\Patterns-OOP\SimpleFactory-ПростаяФабрика\bin\Debug\SimpleFactory-ПростаяФабрика.exe
+e:\ProgrammerTest\Patterns-OOP\SimpleFactory-ПростаяФабрика\bin\Debug\SimpleFactory-ПростаяФабрика.pdb
+e:\ProgrammerTest\Patterns-OOP\SimpleFactory-ПростаяФабрика\obj\Debug\SimpleFactory-ПростаяФабрика.csprojAssemblyReference.cache
+e:\ProgrammerTest\Patterns-OOP\SimpleFactory-ПростаяФабрика\obj\Debug\SimpleFactory-ПростаяФабрика.csproj.CoreCompileInputs.cache
+e:\ProgrammerTest\Patterns-OOP\SimpleFactory-ПростаяФабрика\obj\Debug\SimpleFactory-ПростаяФабрика.exe
+e:\ProgrammerTest\Patterns-OOP\SimpleFactory-ПростаяФабрика\obj\Debug\SimpleFactory-ПростаяФабрика.pdb

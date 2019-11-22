@@ -1,0 +1,7 @@
+E:\ProgrammerTest\Patterns-OOP\Facade-Фасад\bin\Debug\Facade-Фасад.exe.config
+E:\ProgrammerTest\Patterns-OOP\Facade-Фасад\bin\Debug\Facade-Фасад.exe
+E:\ProgrammerTest\Patterns-OOP\Facade-Фасад\bin\Debug\Facade-Фасад.pdb
+E:\ProgrammerTest\Patterns-OOP\Facade-Фасад\obj\Debug\Facade-Фасад.csprojAssemblyReference.cache
+E:\ProgrammerTest\Patterns-OOP\Facade-Фасад\obj\Debug\Facade-Фасад.csproj.CoreCompileInputs.cache
+E:\ProgrammerTest\Patterns-OOP\Facade-Фасад\obj\Debug\Facade-Фасад.exe
+E:\ProgrammerTest\Patterns-OOP\Facade-Фасад\obj\Debug\Facade-Фасад.pdb

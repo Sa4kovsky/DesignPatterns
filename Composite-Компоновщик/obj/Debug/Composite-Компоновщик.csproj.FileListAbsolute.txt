@@ -1,0 +1,7 @@
+E:\ProgrammerTest\Patterns-OOP\Composite-Компоновщик\obj\Debug\Composite-Компоновщик.csprojAssemblyReference.cache
+E:\ProgrammerTest\Patterns-OOP\Composite-Компоновщик\obj\Debug\Composite-Компоновщик.csproj.CoreCompileInputs.cache
+E:\ProgrammerTest\Patterns-OOP\Composite-Компоновщик\bin\Debug\Composite-Компоновщик.exe.config
+E:\ProgrammerTest\Patterns-OOP\Composite-Компоновщик\bin\Debug\Composite-Компоновщик.exe
+E:\ProgrammerTest\Patterns-OOP\Composite-Компоновщик\bin\Debug\Composite-Компоновщик.pdb
+E:\ProgrammerTest\Patterns-OOP\Composite-Компоновщик\obj\Debug\Composite-Компоновщик.exe
+E:\ProgrammerTest\Patterns-OOP\Composite-Компоновщик\obj\Debug\Composite-Компоновщик.pdb

@@ -1,0 +1,14 @@
+E:\Studies\С#\miniProgects\Patterns\SolutionPatterns\Starbuzz-Декоратор\obj\Debug\Starbuzz-Декоратор.csprojResolveAssemblyReference.cache
+E:\Studies\С#\miniProgects\Patterns\SolutionPatterns\Starbuzz-Декоратор\obj\Debug\Starbuzz-Декоратор.csproj.CoreCompileInputs.cache
+E:\Studies\С#\miniProgects\Patterns\SolutionPatterns\Starbuzz-Декоратор\bin\Debug\Starbuzz-Декоратор.exe.config
+E:\Studies\С#\miniProgects\Patterns\SolutionPatterns\Starbuzz-Декоратор\bin\Debug\Starbuzz-Декоратор.exe
+E:\Studies\С#\miniProgects\Patterns\SolutionPatterns\Starbuzz-Декоратор\bin\Debug\Starbuzz-Декоратор.pdb
+E:\Studies\С#\miniProgects\Patterns\SolutionPatterns\Starbuzz-Декоратор\obj\Debug\Starbuzz-Декоратор.exe
+E:\Studies\С#\miniProgects\Patterns\SolutionPatterns\Starbuzz-Декоратор\obj\Debug\Starbuzz-Декоратор.pdb
+e:\ProgrammerTest\Patterns-OOP-master\Starbuzz-Декоратор\bin\Debug\Starbuzz-Декоратор.exe.config
+e:\ProgrammerTest\Patterns-OOP-master\Starbuzz-Декоратор\bin\Debug\Starbuzz-Декоратор.exe
+e:\ProgrammerTest\Patterns-OOP-master\Starbuzz-Декоратор\bin\Debug\Starbuzz-Декоратор.pdb
+e:\ProgrammerTest\Patterns-OOP-master\Starbuzz-Декоратор\obj\Debug\Starbuzz-Декоратор.csprojAssemblyReference.cache
+e:\ProgrammerTest\Patterns-OOP-master\Starbuzz-Декоратор\obj\Debug\Starbuzz-Декоратор.csproj.CoreCompileInputs.cache
+e:\ProgrammerTest\Patterns-OOP-master\Starbuzz-Декоратор\obj\Debug\Starbuzz-Декоратор.exe
+e:\ProgrammerTest\Patterns-OOP-master\Starbuzz-Декоратор\obj\Debug\Starbuzz-Декоратор.pdb

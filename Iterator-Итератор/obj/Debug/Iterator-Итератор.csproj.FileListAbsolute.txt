@@ -1,0 +1,7 @@
+E:\ProgrammerTest\Patterns-OOP\Iterator-Итератор\obj\Debug\Iterator-Итератор.csprojAssemblyReference.cache
+E:\ProgrammerTest\Patterns-OOP\Iterator-Итератор\obj\Debug\Iterator-Итератор.csproj.CoreCompileInputs.cache
+E:\ProgrammerTest\Patterns-OOP\Iterator-Итератор\bin\Debug\Iterator-Итератор.exe.config
+E:\ProgrammerTest\Patterns-OOP\Iterator-Итератор\bin\Debug\Iterator-Итератор.exe
+E:\ProgrammerTest\Patterns-OOP\Iterator-Итератор\bin\Debug\Iterator-Итератор.pdb
+E:\ProgrammerTest\Patterns-OOP\Iterator-Итератор\obj\Debug\Iterator-Итератор.exe
+E:\ProgrammerTest\Patterns-OOP\Iterator-Итератор\obj\Debug\Iterator-Итератор.pdb

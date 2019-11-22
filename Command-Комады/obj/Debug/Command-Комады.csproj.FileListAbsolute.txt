@@ -1,0 +1,7 @@
+E:\ProgrammerTest\Patterns-OOP\Command-Комады\obj\Debug\Command-Комады.csprojAssemblyReference.cache
+E:\ProgrammerTest\Patterns-OOP\Command-Комады\obj\Debug\Command-Комады.csproj.CoreCompileInputs.cache
+E:\ProgrammerTest\Patterns-OOP\Command-Комады\bin\Debug\Command-Комады.exe.config
+E:\ProgrammerTest\Patterns-OOP\Command-Комады\bin\Debug\Command-Комады.exe
+E:\ProgrammerTest\Patterns-OOP\Command-Комады\bin\Debug\Command-Комады.pdb
+E:\ProgrammerTest\Patterns-OOP\Command-Комады\obj\Debug\Command-Комады.exe
+E:\ProgrammerTest\Patterns-OOP\Command-Комады\obj\Debug\Command-Комады.pdb
