@@ -29,7 +29,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator-Итератор",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite-Компоновщик", "Composite-Компоновщик\Composite-Компоновщик.csproj", "{4F7B07C9-E20F-4A43-B20A-2445573D8964}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State", "State\State.csproj", "{680F094C-D15F-4CBD-95E6-03E2AE1A005F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State-Состояние", "State\State-Состояние.csproj", "{680F094C-D15F-4CBD-95E6-03E2AE1A005F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Proxy-Заместитель", "Proxy-Заместитель", "{9D828599-F6AD-4DA8-926B-F00936BF9341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy-Заместитель", "Proxy-Заместитель\Proxy-Заместитель.csproj", "{0A7D391F-0EE0-4220-A9C0-138FEC02920F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -93,9 +97,16 @@ Global
 		{680F094C-D15F-4CBD-95E6-03E2AE1A005F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{680F094C-D15F-4CBD-95E6-03E2AE1A005F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{680F094C-D15F-4CBD-95E6-03E2AE1A005F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A7D391F-0EE0-4220-A9C0-138FEC02920F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7D391F-0EE0-4220-A9C0-138FEC02920F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7D391F-0EE0-4220-A9C0-138FEC02920F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7D391F-0EE0-4220-A9C0-138FEC02920F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0A7D391F-0EE0-4220-A9C0-138FEC02920F} = {9D828599-F6AD-4DA8-926B-F00936BF9341}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6036A6A5-6722-491E-B941-7229F8FA9C93}

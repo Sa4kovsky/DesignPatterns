@@ -43,16 +43,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstractions\ISate.cs" />
+    <Compile Include="Machines\GumballMachine.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="States\HasQuarterState.cs" />
+    <Compile Include="States\NoQuarterState.cs" />
+    <Compile Include="States\SoldOutState.cs" />
+    <Compile Include="States\SoldState.cs" />
+    <Compile Include="States\WinnerState.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Abstractions\" />
-    <Folder Include="Machines\" />
-    <Folder Include="States\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

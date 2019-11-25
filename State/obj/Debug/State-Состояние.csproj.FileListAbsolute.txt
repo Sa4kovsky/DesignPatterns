@@ -1,0 +1,7 @@
+e:\ProgrammerTest\Patterns-OOP\State\obj\Debug\State-Состояние.csprojAssemblyReference.cache
+e:\ProgrammerTest\Patterns-OOP\State\obj\Debug\State-Состояние.csproj.CoreCompileInputs.cache
+e:\ProgrammerTest\Patterns-OOP\State\bin\Debug\State.exe.config
+e:\ProgrammerTest\Patterns-OOP\State\bin\Debug\State.exe
+e:\ProgrammerTest\Patterns-OOP\State\bin\Debug\State.pdb
+e:\ProgrammerTest\Patterns-OOP\State\obj\Debug\State.exe
+e:\ProgrammerTest\Patterns-OOP\State\obj\Debug\State.pdb
