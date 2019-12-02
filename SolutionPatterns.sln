@@ -35,6 +35,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Proxy-Заместител�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy-Заместитель", "Proxy-Заместитель\Proxy-Заместитель.csproj", "{0A7D391F-0EE0-4220-A9C0-138FEC02920F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyAndBD-Заместитель", "ProxyAndBD-Заместитель\ProxyAndBD-Заместитель.csproj", "{92C1A25B-E111-476D-BCE1-881C7C04A3AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,12 +103,17 @@ Global
 		{0A7D391F-0EE0-4220-A9C0-138FEC02920F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A7D391F-0EE0-4220-A9C0-138FEC02920F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A7D391F-0EE0-4220-A9C0-138FEC02920F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92C1A25B-E111-476D-BCE1-881C7C04A3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C1A25B-E111-476D-BCE1-881C7C04A3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C1A25B-E111-476D-BCE1-881C7C04A3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C1A25B-E111-476D-BCE1-881C7C04A3AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0A7D391F-0EE0-4220-A9C0-138FEC02920F} = {9D828599-F6AD-4DA8-926B-F00936BF9341}
+		{92C1A25B-E111-476D-BCE1-881C7C04A3AE} = {9D828599-F6AD-4DA8-926B-F00936BF9341}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6036A6A5-6722-491E-B941-7229F8FA9C93}

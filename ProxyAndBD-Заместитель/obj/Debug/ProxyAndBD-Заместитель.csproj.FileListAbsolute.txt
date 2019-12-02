@@ -1,0 +1,12 @@
+E:\ProgrammerTest\Patterns-OOP\ProxyAndBD-Заместитель\bin\Debug\ProxyAndBD-Заместитель.exe.config
+E:\ProgrammerTest\Patterns-OOP\ProxyAndBD-Заместитель\bin\Debug\ProxyAndBD-Заместитель.exe
+E:\ProgrammerTest\Patterns-OOP\ProxyAndBD-Заместитель\bin\Debug\ProxyAndBD-Заместитель.pdb
+E:\ProgrammerTest\Patterns-OOP\ProxyAndBD-Заместитель\bin\Debug\EntityFramework.dll
+E:\ProgrammerTest\Patterns-OOP\ProxyAndBD-Заместитель\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProgrammerTest\Patterns-OOP\ProxyAndBD-Заместитель\bin\Debug\EntityFramework.xml
+E:\ProgrammerTest\Patterns-OOP\ProxyAndBD-Заместитель\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProgrammerTest\Patterns-OOP\ProxyAndBD-Заместитель\obj\Debug\ProxyAndBD-Заместитель.csprojAssemblyReference.cache
+E:\ProgrammerTest\Patterns-OOP\ProxyAndBD-Заместитель\obj\Debug\ProxyAndBD-Заместитель.csproj.CoreCompileInputs.cache
+E:\ProgrammerTest\Patterns-OOP\ProxyAndBD-Заместитель\obj\Debug\ProxyAndBD-Заместитель.csproj.CopyComplete
+E:\ProgrammerTest\Patterns-OOP\ProxyAndBD-Заместитель\obj\Debug\ProxyAndBD-Заместитель.exe
+E:\ProgrammerTest\Patterns-OOP\ProxyAndBD-Заместитель\obj\Debug\ProxyAndBD-Заместитель.pdb
