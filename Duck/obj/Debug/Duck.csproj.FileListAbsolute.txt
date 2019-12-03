@@ -1,0 +1,6 @@
+E:\ProgrammerTest\Patterns-OOP\Duck\obj\Debug\Duck.csproj.CoreCompileInputs.cache
+E:\ProgrammerTest\Patterns-OOP\Duck\bin\Debug\Duck.exe.config
+E:\ProgrammerTest\Patterns-OOP\Duck\bin\Debug\Duck.exe
+E:\ProgrammerTest\Patterns-OOP\Duck\bin\Debug\Duck.pdb
+E:\ProgrammerTest\Patterns-OOP\Duck\obj\Debug\Duck.exe
+E:\ProgrammerTest\Patterns-OOP\Duck\obj\Debug\Duck.pdb
