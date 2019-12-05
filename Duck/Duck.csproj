@@ -43,18 +43,27 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Abstract\AbstractDuckFactory.cs" />
+    <Compile Include="Abstract\IObserver.cs" />
     <Compile Include="Abstract\IQuackable.cs" />
+    <Compile Include="Abstract\IQuackObservable.cs" />
     <Compile Include="Adapter\GooseAdapter.cs" />
+    <Compile Include="Decorator\QuackCounter.cs" />
+    <Compile Include="Factory\CountingDuckFactory.cs" />
+    <Compile Include="Factory\DuckFactory.cs" />
     <Compile Include="Models\DuckCall.cs" />
+    <Compile Include="Models\DuckFlock.cs" />
     <Compile Include="Models\Goose.cs" />
     <Compile Include="Models\MallardDuck.cs" />
     <Compile Include="Models\RedheadDuck.cs" />
     <Compile Include="Models\RubberDuck.cs" />
+    <Compile Include="Observal\Observable.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

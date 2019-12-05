@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace Duck.Abstract
 {
-    public interface IQuackable : IQuackObservable
+    public interface IQuackObservable
     {
-        void Quack();
+        void RegisterObserver(IObserver observer);
+        void NotifyObservers();
     }
 }

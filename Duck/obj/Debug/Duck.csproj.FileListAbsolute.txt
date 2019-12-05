@@ -4,3 +4,4 @@ E:\ProgrammerTest\Patterns-OOP\Duck\bin\Debug\Duck.exe
 E:\ProgrammerTest\Patterns-OOP\Duck\bin\Debug\Duck.pdb
 E:\ProgrammerTest\Patterns-OOP\Duck\obj\Debug\Duck.exe
 E:\ProgrammerTest\Patterns-OOP\Duck\obj\Debug\Duck.pdb
+e:\ProgrammerTest\Patterns-OOP\Duck\obj\Debug\Duck.csprojAssemblyReference.cache
